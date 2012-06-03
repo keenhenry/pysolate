@@ -23,13 +23,6 @@ occupying tiles to block the opponent's ways until he/she can no longer moves.
 INSTRUCTION
 ===========
 
-To move a pawn, you can either touch on the tile you want to move to or drag
-and drop your pawn on the desired spot. Or, your can use the keys on Dpad 
-(including directional keys and the enter key) to make the move.
-
-There will be music playing during the game, also, valid tiles to move will 
-be shown in a different color than ordinary tiles; both by default. You can
-change these settings by changing the options in the setting's menu. To enter
-setting's menu, press the menu key on the phone in the game's main menu.
+(This instruction is obselete)
 
 Have fun and enjoy it!
