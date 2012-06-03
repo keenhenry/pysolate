@@ -23,6 +23,6 @@ occupying tiles to block the opponent's ways until he/she can no longer moves.
 INSTRUCTION
 ===========
 
-(This instruction is obselete)
+# This part of instruction is no longer valid.
 
 Have fun and enjoy it!
